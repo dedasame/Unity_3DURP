@@ -1,6 +1,6 @@
 # Unity_3DURP
 
-
+## PBR Materials in Textures
 Base Map: Asıl görüntü  
 Normal Map: Işığa göre çıkıntılı görüntü  
 Height Map: Yaklaştıkça çıkıntı veren görüntü  
